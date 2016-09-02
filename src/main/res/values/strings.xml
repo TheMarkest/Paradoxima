@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Paradoxima</string>
+    //qest
+    <string name="restarter0">Вы выключаете будильник и снова проваливаетесь в сон.</string>
+    <string name="restarter1">Вы встаёте, ударяетесь головой о балку и вырубаетесь.</string>
+
+</resources>
